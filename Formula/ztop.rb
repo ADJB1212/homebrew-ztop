@@ -7,22 +7,22 @@ class Ztop < Formula
   on_macos do
     on_arm do
       url "https://github.com/ADJB1212/ztop/releases/download/v0.0.1/ztop-0.0.1-macos-arm64.tar.gz"
-      sha256 "a0721dcb61a19cd3ee423397efa6b6f924cbfb43d18c0ec126ac5f05d3eafadd"
+      sha256 "7835bdfe33dbf0865c3a4b266d05c568d1eae57120bf2b35193293ed62e8343e"
     end
     on_intel do
       url "https://github.com/ADJB1212/ztop/releases/download/v0.0.1/ztop-0.0.1-macos-x86_64.tar.gz"
-      sha256 "39a8fcb1ae2ce0fb2bbff2e69fc00d093a3d2c7c4b65c502ade73c0e0ec77bc2"
+      sha256 "652ca3e8d6520734a87b3ab9125c235ea41c88e30ed73553a7e11c950563933c"
     end
   end
 
   on_linux do
     on_arm do
       url "https://github.com/ADJB1212/ztop/releases/download/v0.0.1/ztop-0.0.1-linux-arm64.tar.gz"
-      sha256 "f1dc5a25d6740d61592a2f94b68ddcba1affc9c27a4dd2341ba07602cf0f1c82"
+      sha256 "15157db5b5a2afd24a0fb74c182e370e3f3bc316fb100e61af8df9ab94dae865"
     end
     on_intel do
       url "https://github.com/ADJB1212/ztop/releases/download/v0.0.1/ztop-0.0.1-linux-x86_64.tar.gz"
-      sha256 "498c31e9a62f3aaec257f3236bf3aebf51acf810fee618d1cfa3a9601d0993d9"
+      sha256 "c83a6d4eabde24bf173267ae87e41da7c99763f5865e1419ae46ee00d1652062"
     end
   end
 
