@@ -1,13 +1,13 @@
 class Ztop < Formula
   desc "Terminal-based system monitor for macOS"
   homepage "https://github.com/ADJB1212/ztop"
-  version "1.2.0"
+  version "1.3.0"
   license "GPL-3.0-or-later"
 
   on_macos do
     on_arm do
-      url "https://github.com/ADJB1212/ztop/releases/download/v1.2.0/ztop-1.2.0-macos-arm64.tar.gz"
-      sha256 "0a20a31f9b29dc1c032d9eaf842f79730e0cea43d7a6c6c06a27a5e7fb6d8fe1"
+      url "https://github.com/ADJB1212/ztop/releases/download/v1.3.0/ztop-1.3.0-macos-arm64.tar.gz"
+      sha256 "ea669714bc97069119a99d90be3982f952854c76b03060418841400c556eb472"
     end
   end
 
